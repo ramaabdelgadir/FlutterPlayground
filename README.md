@@ -5,6 +5,7 @@ Welcome to **Flutter Playground**! This repository contains hands-on projects cr
 ## Projects 📌
 
 - **MoveIt** - A simple UI practice app for workout selection.
+- **TODO** - A simple todo app to add tasks, mark them done, and save them using Hive.
 
 🔨 More projects will be added soon, InshaAllah...
 
