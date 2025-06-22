@@ -5,7 +5,8 @@ Welcome to **Flutter Playground**! This repository contains hands-on projects cr
 ## Projects 📌
 
 - **MoveIt** - A simple UI practice app for workout selection.
-- **TODO** - A simple todo app to add tasks, mark them done, and save them using Hive.
+- **TO DO** - A simple todo app to add tasks, mark them done, and save them using Hive.
+- **Windy** - A simple weather app that shows current conditions and a 5-day forecast based on your location using the OpenWeatherMap API.
 
 🔨 More projects will be added soon, InshaAllah...
 
